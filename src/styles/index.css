@@ -9,3 +9,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.navbar {
+  background-color: honeydew;
+  color: teal;
+}
+
+main {
+  background-color: aliceblue;
+  color: midnightblue;
+}
+
+footer {
+  background-color: darkslategray;
+}
